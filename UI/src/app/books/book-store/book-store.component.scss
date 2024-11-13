@@ -1,0 +1,100 @@
+//@import "../../../theme.scss";
+
+:host {
+  display: block;
+  padding: 1rem 0;
+}
+
+mat-form-field {
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+}
+
+mat-card {
+  width: max-content;
+  margin-bottom: 1rem;
+  mat-card-content {
+    font-size: 1.5rem;
+  }
+}
+
+mat-accordion {
+  mat-panel-title {
+    font-size: 1.4rem;
+    letter-spacing: 2px;
+    font-weight: 500;
+    // color: $dark-accent-A200;
+    color: #69f0db;
+  }
+
+  mat-panel-description {
+    font-style: italic;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+
+  table {
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+
+    .mat-mdc-header-cell {
+      font-style: italic;
+      font-size: 1.2rem;
+      font-family: cursive;
+    background-color: rgb(23, 57, 228);
+    }
+
+    .mat-mdc-cell {
+      font-size: 1.2rem;
+    }
+  }
+}
+/* Add styles to your component's SCSS file */
+.table-row {
+  &:hover {
+    background-color: #f1f1f1; 
+  }
+}
+
+.clickable-cell {
+  text-decoration: none;
+  &:hover {
+    color: rgb(0, 88, 139); 
+  }
+  cursor: pointer;
+  color: #69f0aee8;
+}
+// .strong{
+//  font-weight: bold;
+//  border-color: black;
+// }
+.mat-mdc-form-field-flex {
+  background-color: darkorchid !important;
+  color: black;
+}
+.search-form-field {
+ // background-color: #f5f5f5; // Light grey background color
+  // padding: 10px;
+  // border-radius: 5px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+ // margin-bottom: 20px;
+
+  mat-label {
+    color: #04115a; // Primary color for label text
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  // input {
+  //   background-color: rgb(41, 128, 100); // Ensure input field has a white background
+  // }
+
+  // .mat-form-field-outline {
+  //   border-color: #3f51b5; // Outline color
+  // }
+
+  // .mat-icon-button {
+  //   color: #3f51b5; // Icon button color
+  // }
+}

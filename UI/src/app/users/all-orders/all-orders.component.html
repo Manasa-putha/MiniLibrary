@@ -1,0 +1,9 @@
+<mat-card>
+    <mat-card-content>
+        <h1>All Orders of Library</h1>
+    </mat-card-content>
+</mat-card>
+
+<page-table [columns]="columnsForPendingReturns"
+            [dataSource]="ordersWithPendingReturns">
+</page-table>

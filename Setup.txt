@@ -1,0 +1,30 @@
+Steps for setup
+1.Download the zip file of frontend and Backend.
+2.Exact files.
+3.open Backend file in visual studio 2022.
+4.Go to appsettings.json and update the database string in "DB" section.
+5.Open packageManagerconsole run update-database command.
+6.if it is update then run add-migrations Intialdb command and after this run update-database command.
+7.Run solution file a browser will open.
+8.Now backend setup completed .
+9.Go to fronted folder open in VisualStudioCode.a
+10.Run npm install
+And run this commands 
+npm i @angular/material
+npm i @auth0/angular-jwt
+and then ng serve.
+11.localhost:4200 will come ,open that link.
+is ready for our application LibraryManagmentSystem.
+some users data 
+ 1) Email = admin@gmail.com
+  Password = "admin1234"
+ 2)Email = "sai@gmail.com",
+     Password = "sai1234",
+ 3)Email = "manu@gmail.com", 
+   Password = "manu4321",
+ 4)Email = "ramu@gmail.com",
+    Password = "123456",
+
+* And by defaultly for new user i have given 5 tokens.
+
+* you can also register to the account.And then login as a admin and approve the request then you will login with your new credintails.

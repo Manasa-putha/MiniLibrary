@@ -1,0 +1,39 @@
+mat-card {
+    width: max-content;
+    margin-bottom: 2rem;
+  }
+  
+  mat-form-field {
+    margin-right: 1rem;
+  }
+  
+  .category-select {
+    width: 500px;
+  }
+  
+  .book-name {
+    width: 500px;
+  }
+  
+  .book-author {
+    width: 500px;
+  }
+  .description{
+    width:500px;
+}
+  .form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px; 
+}
+
+.form-row .mat-form-field {
+    width: 80%; 
+}

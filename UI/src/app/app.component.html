@@ -1,0 +1,19 @@
+<mat-sidenav-container>
+
+    <mat-sidenav opened mode="side">
+        <page-side-nav></page-side-nav>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <page-header></page-header>
+
+        <main>
+            <router-outlet></router-outlet>
+        </main>
+
+        <page-footer></page-footer>
+    </mat-sidenav-content>
+    <div class="image-section">
+        <img src="assets\images\book1.jpg" alt="Book Cover" />
+      </div>
+</mat-sidenav-container>

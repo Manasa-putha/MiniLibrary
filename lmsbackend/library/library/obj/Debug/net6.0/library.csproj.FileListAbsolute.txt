@@ -1,0 +1,268 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\appsettings.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\library.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\library.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\library.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CopyComplete
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\LMS\lmsbackend\library\library\obj\Debug\net6.0\ref\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CopyComplete
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\ref\library.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.Development.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.exe
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.deps.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.pdb
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Humanizer.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cs
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.build.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.development.json
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CopyComplete
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\refint\library.dll
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.pdb
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+D:\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\ref\library.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.Development.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\appsettings.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.exe
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.deps.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.runtimeconfig.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\library.pdb
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Humanizer.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cs
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.pack.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.build.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\staticwebassets.development.json
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.csproj.CopyComplete
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\refint\library.dll
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.pdb
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+D:\All Mini assignments\miniAssigment-1\submitted\MiniAssignment-1\lmsbackend\library\library\obj\Debug\net6.0\ref\library.dll

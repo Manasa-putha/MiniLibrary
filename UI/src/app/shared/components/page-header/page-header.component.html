@@ -1,0 +1,16 @@
+<mat-toolbar color="primary">
+    <span>Library Management System</span>
+    <span class="spacer"></span>
+    <div class="user-info" *ngIf="loggedIn">
+        <div class="name">Hi welcome 
+            <mat-icon class="icon">account_circle</mat-icon>
+            <span>{{ name }}</span>
+            <mat-icon class="icon">monetization_on</mat-icon>
+            <span>{{ tokensAvailable }}</span>
+        </div>
+        <button mat-raised-button color="accent" routerLink="/profile">Profile</button>
+        <button mat-raised-button color="warn" (click)="logout()">Log Out</button>       
+    </div>
+    <button mat-raised-button color="accent" routerLink="/login" *ngIf="!loggedIn">Login</button>
+  
+</mat-toolbar>
